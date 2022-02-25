@@ -1,0 +1,14 @@
+{
+  "name": "nightapp",
+  "version": "1.0.0",
+  "description": "An app i made for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.7"
+  }
+}
